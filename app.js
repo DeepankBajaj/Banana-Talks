@@ -1,4 +1,9 @@
+//input
 var username = prompt("Give me your name")
-alert("this sccript works" + username);
 
+//processing
+var welcomeMessage = "this sccript works" + username;
+
+//output
+alert(welcomeMessage);
     
